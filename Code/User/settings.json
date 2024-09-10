@@ -1,0 +1,7 @@
+{
+  "workbench.colorTheme": "Dracula Refined",
+  "workbench.startupEditor": "none",
+  "editor.formatOnSave": true,
+  "editor.fontFamily": "'Iosevka Term', 'Symbols Nerd Font', 'Droid Sans Mono', 'monospace', monospace",
+  "window.menuBarVisibility": "toggle"
+}

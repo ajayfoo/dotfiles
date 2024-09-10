@@ -1,0 +1,36 @@
+[line_break]
+disabled = true
+
+[character]
+success_symbol = '[](bold green)'
+error_symbol = '[](bold red)'
+
+[directory]
+truncation_length=1
+home_symbol=""
+
+[battery]
+disabled=true
+
+[cmd_duration]
+disabled=true
+
+[username]
+disabled=true
+style_user="bold #87CEEB"
+show_always=false
+
+[python]
+symbol=" "
+pyenv_version_name = true
+style="yellow"
+format='via [${symbol}${pyenv_prefix}(${version} )(\($virtualenv\) )]($style)'
+
+[cmake]
+disabled=true
+
+[git_status]
+behind="↓"
+ahead="↑"
+diverged="⇕"
+deleted="󰅖"
