@@ -1,0 +1,6 @@
+import = ["dracula.toml"]
+shell = "fish"
+
+[font]
+normal = { family = "Iosevka Term", style = "Regular" }
+size = 12
